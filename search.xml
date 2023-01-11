@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Spring boot自学</title>
+      <link href="/2023/01/11/Springboot-%E8%87%AA%E5%AD%A6/"/>
+      <url>/2023/01/11/Springboot-%E8%87%AA%E5%AD%A6/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Springboot-自学"><a href="#Springboot-自学" class="headerlink" title="Springboot 自学"></a>Springboot 自学</h1><h2 id="1、快速构建一个Spring-boot项目"><a href="#1、快速构建一个Spring-boot项目" class="headerlink" title="1、快速构建一个Spring boot项目"></a>1、快速构建一个Spring boot项目</h2><ul><li>对pom.xml进行修改，加入依赖项目</li><li>在controller控制类中加入@RestController与@RequestMapping(“&#x2F;1”)  RequestMapping用于对网页域名的访问，例如&#x2F;1 则访问网页的域名为 LocalHost：8080&#x2F;1</li><li>一般来说在写一个Spring boot项目时会写一个引导类Application作为SpringBoot项目的入口 添加@SpringBootApplication作为引导类，并为类命名为XXXApplication</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Spring boot </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Spring boot </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>微机接口笔记</title>
       <link href="/2022/12/31/%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3%E7%AC%94%E8%AE%B0/"/>
       <url>/2022/12/31/%E5%BE%AE%E6%9C%BA%E6%8E%A5%E5%8F%A3%E7%AC%94%E8%AE%B0/</url>
